@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .markdown-preview-view {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+
+  nav, .sidebar, .graph-view {
+    display: none !important;
+  }
+
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
