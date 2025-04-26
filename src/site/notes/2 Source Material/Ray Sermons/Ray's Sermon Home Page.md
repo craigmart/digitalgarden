@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/ray-sermons/ray-s-sermon-home-page/","updated":"2025-04-26T16:35:15.484-05:00"}
+{"dg-publish":true,"permalink":"/2-source-material/ray-sermons/ray-s-sermon-home-page/"}
 ---
 
 
