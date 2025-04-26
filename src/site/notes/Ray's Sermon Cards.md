@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ray-s-sermon-cards/","updated":"2025-04-26T09:04:22.895-05:00"}
+{"dg-publish":true,"permalink":"/ray-s-sermon-cards/","updated":"2025-04-26T09:48:32.639-05:00"}
 ---
 
-[[History of the Filco Bible Index System\|History of the Filco Bible Index System]]
+[[Intro to Ray's Sermon Index\|Intro to Ray's Sermon Index]]

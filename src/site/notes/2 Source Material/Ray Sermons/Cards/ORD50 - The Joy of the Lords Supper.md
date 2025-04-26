@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/ray-sermons/cards/ord-50-the-joy-of-the-lords-supper/","updated":"2025-04-26T09:03:42.877-05:00"}
+{"dg-publish":true,"permalink":"/2-source-material/ray-sermons/cards/ord-50-the-joy-of-the-lords-supper/","updated":"2025-04-26T09:50:13.048-05:00"}
 ---
 
 [[4 Tags/Lords Supper\|Lords Supper]] [[Ray's Sermon Cards\|Ray's Sermon Cards]]
