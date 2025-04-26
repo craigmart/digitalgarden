@@ -1,25 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T09:48:43.285-05:00"}
+{"dg-publish":true,"permalink":"/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T09:54:54.909-05:00"}
 ---
 
+# Introduction to Ray's Sermon Index
 
-I've been doing some light research on the system the Ray used to organize his sermons.  Ray and I had countless conversation on his process and how he thinks about his preparation and planning to preach God's Word.  
+I've been doing some light research on the system Ray used to organize his sermons. Ray and I had countless conversations about his process and how he approached preparation and planning for preaching God's Word.
 
-After his passing I wanted to make sure his system was protected and didnt get left in a box and forgotten.  It's hard to describe the debth and breth of work represented in his collection.  From what I can tell he never missed a week.  From his first entry number one on June 14, 1957 in Milan, Michigan to his last entry - number 6537 -  on December 5th, 2021 in Peoria, Arizona.   Over 64 years, 5 months and 21 days he spoke in front of His Church proclaim His Good News.  
+After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry, number one on June 14, 1957, in Milan, Michigan, to his final entry—number 6537—on December 5, 2021, in Peoria, Arizona, he preached for 64 years, 5 months, and 21 days, faithfully proclaiming God's Good News.
 
-I would love to go over these stats with Ray - he loves this kind of stuff.  Get this...
+I would have loved to share these stats with Ray—he absolutely loved this kind of stuff. Get this:
 
 > Ray produced 101 sermons a year for 64 years.
 
-Thats 1.94 sermons a week.  Thie includes the gospel meetings AM and PM sermons and all his time off (he was not keen on missing Sundays).  He was prolific in his work for the Lord.
+That's about 1.94 sermons per week. This number includes gospel meetings, morning and evening sermons, and all his time off (though he was never keen on missing Sundays). He was truly prolific in his work for the Lord.
 
-As a family we plan to disolve his collections of cards into our family houseolhs.  There is meaninful topics, specaial occasions and trasure yet to be discovered.  Holly and I are starting the process and plan to have the 276 pages of index digitized for searghin and reference.  Some of the sermon cards will be scanned in too but the volumn is just oo much.  
+As a family, we plan to carefully disperse his collection of sermon cards among our households. There are meaningful topics, special occasions, and treasures yet to be discovered. Holly and I have started the process and plan to digitize the 276-page index for easier searching and referencing. We'll also scan some sermon cards, although scanning them all is simply too large a task.  The digital archived will be stored at the web address.
 
-We'll distribute the card to all the family for care fo and pass down.
+We'll distribute the cards to family members for safekeeping and to pass down through generations.
 
-The fist step is to find out about this system.  I did a few web searchs and there is not much info.  I recently tasked an AI tool to doo some deep resarch.  It did an exaustive search of the internet and old nerspapers and church bulletin archives.  What's below is the report of that deep research.  I found a few things interesting.  The system as Ray knew came out in 1956.  There is mention in Church of Christ bulletins of the system and classes on how to use it.  I found it intersting that the precursor to Rays system by Martin Luthur King, Jr.
+The first step was to find more about this organizational system. After a few web searches, I discovered there wasn't much information available. Recently, I tasked an AI tool with doing some deeper research. It conducted an exhaustive search across the internet, old newspapers, and church bulletin archives. Below is the report with interesting links to sources.  
 
-Thanks Ray,
+Thanks Ray, 
 Craig
 
 ---
