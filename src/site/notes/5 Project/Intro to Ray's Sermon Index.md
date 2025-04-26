@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-project/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T11:02:52.963-05:00"}
+{"dg-publish":true,"permalink":"/5-project/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T11:09:12.000-05:00"}
 ---
 
 
@@ -9,7 +9,10 @@ by: Craig
 
 I've been doing some light research on the system Ray used to organize his sermons. Ray and I had countless conversations about his process and how he approached preparation and planning for preaching God's Word.
 
-After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry on [[2 Source Material/Ray Sermons/Index/001 Index\|page 1]] dated June 14, 1957, in Milan, Michigan, to his final entry on [[2 Source Material/Ray Sermons/Index/276 Index\|page 276]] on December 5, 2021, in Peoria, Arizona, he preached 6535 sermons over 64 years, 5 months, and 21 days.  (I would have loved to share these stats with Ray—he absolutely loved this kind of stuff.  Click the page links above to see how his handwriting changed over the years.). 
+After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry on [[2 Source Material/Ray Sermons/Index/001 Index\|page 1]] dated June 14, 1957, in Milan, Michigan, to his final entry on [[2 Source Material/Ray Sermons/Index/276 Index\|page 276]] on December 5, 2021, in Peoria, Arizona, he preached 6535 sermons over 64 years, 5 months, and 21 days. 
+
+![Ray early writing .png](/img/user/2%20Source%20Material/Attachments/Ray%20early%20writing%20.png)
+![Ray late writing .png](/img/user/2%20Source%20Material/Attachments/Ray%20late%20writing%20.png)
 
 > Ray produced 101 sermons a year for 64 years.
 
@@ -20,6 +23,7 @@ As a family, we plan to carefully disperse his collection of sermon cards among 
 My first step was to find more about this organizational system. After a few web searches, I discovered there wasn't much information available. Recently, I asked a AI tool to do some deeper research. It conducted an exhaustive search across the internet, old newspapers, and church bulletin archives.  Below is the report...enjoy.
 
 Thanks Ray...
+C
 
 
 ![IMG_1842.jpg](/img/user/2%20Source%20Material/Attachments/IMG_1842.jpg)
