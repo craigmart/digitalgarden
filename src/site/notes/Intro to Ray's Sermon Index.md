@@ -1,27 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T09:54:54.909-05:00"}
+{"dg-publish":true,"permalink":"/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T10:09:22.574-05:00"}
 ---
+
 
 # Introduction to Ray's Sermon Index
 
 I've been doing some light research on the system Ray used to organize his sermons. Ray and I had countless conversations about his process and how he approached preparation and planning for preaching God's Word.
 
-After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry, number one on June 14, 1957, in Milan, Michigan, to his final entry—number 6537—on December 5, 2021, in Peoria, Arizona, he preached for 64 years, 5 months, and 21 days, faithfully proclaiming God's Good News.
-
-I would have loved to share these stats with Ray—he absolutely loved this kind of stuff. Get this:
+After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry on [[001 Index.pdf| page one]] dated June 14, 1957, in Milan, Michigan, to his final entry on [[276 Index.pdf|page 276]] on December 5, 2021, in Peoria, Arizona, he preached 6535 sermons over 64 years, 5 months, and 21 days.  (I would have loved to share these stats with Ray—he absolutely loved this kind of stuff.). Here is the big stat:
 
 > Ray produced 101 sermons a year for 64 years.
 
 That's about 1.94 sermons per week. This number includes gospel meetings, morning and evening sermons, and all his time off (though he was never keen on missing Sundays). He was truly prolific in his work for the Lord.
 
-As a family, we plan to carefully disperse his collection of sermon cards among our households. There are meaningful topics, special occasions, and treasures yet to be discovered. Holly and I have started the process and plan to digitize the 276-page index for easier searching and referencing. We'll also scan some sermon cards, although scanning them all is simply too large a task.  The digital archived will be stored at the web address.
+As a family, we plan to carefully disperse his collection of sermon cards among our households. There cards have meaningful topics, special occasions, and treasures yet to be discovered. Holly and I have started the process and plan to digitize the 276-page index for searching and for all of us to have access to study his outlines.  We'll scan some sermon cards, although scanning them all is simply too large a task.  The digital index will have all of his sermon titles and we can exchenge cards as we like.  
 
-We'll distribute the cards to family members for safekeeping and to pass down through generations.
-
-The first step was to find more about this organizational system. After a few web searches, I discovered there wasn't much information available. Recently, I tasked an AI tool with doing some deeper research. It conducted an exhaustive search across the internet, old newspapers, and church bulletin archives. Below is the report with interesting links to sources.  
+My first step was to find more about this organizational system. After a few web searches, I discovered there wasn't much information available. Recently, I asked a AI tool to do some deeper research. It conducted an exhaustive search across the internet, old newspapers, and church bulletin archives.  Below is the report...enjoy.
 
 Thanks Ray, 
 Craig
+
+![IMG_1842.jpg](/img/user/2%20Source%20Material/Attachments/IMG_1842.jpg)
 
 ---
 ## The Filco Bible Index System
@@ -68,3 +67,4 @@ In terms of legacy, the Filco Sermon Index Service was a forerunner to later com
 - Product information from Mount Vernon Foundation publications (1952–1956) ([Amazon.com: Filco Sermon Index Service Modern Tools for Ministers: Robert H. Kells (compiler): Libros](https://www.amazon.com/-/es/Robert-H-Kells-compiler/dp/B01LDXGN0S#:~:text=,%E2%80%8F%20%3A%20%E2%80%8E%20%20Ingl%C3%A9s)) ([Filco Memory-O-Matic System: Robert H. Kells (compiler): Libros](https://www.amazon.com/-/es/Memory-Matic-System-Robert-compiler/dp/B01LDWA8MS#:~:text=Libros%20www,%C2%B7%20Ver%20todos%20los%20detalles)).
     
 - Tribune.org (BBFI) – Eli Harju biography noting Memory-O-Matic class at Baptist Bible College ([Eli Harju, BBFI Educator - Tribune.org](https://www.tribune.org/eli-harju-bbfi-educator/#:~:text=Missouri,1970)).
+
