@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/5-project/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T10:59:53.428-05:00"}
+{"dg-publish":true,"permalink":"/5-project/intro-to-ray-s-sermon-index/","tags":["gardenEntry"],"updated":"2025-04-26T11:02:52.963-05:00"}
 ---
 
 
 # Introduction to Ray's Sermon Index
+
+by: Craig
 
 I've been doing some light research on the system Ray used to organize his sermons. Ray and I had countless conversations about his process and how he approached preparation and planning for preaching God's Word.
 
@@ -17,8 +19,8 @@ As a family, we plan to carefully disperse his collection of sermon cards among 
 
 My first step was to find more about this organizational system. After a few web searches, I discovered there wasn't much information available. Recently, I asked a AI tool to do some deeper research. It conducted an exhaustive search across the internet, old newspapers, and church bulletin archives.  Below is the report...enjoy.
 
-Thanks Ray, 
-Craig
+Thanks Ray...
+
 
 ![IMG_1842.jpg](/img/user/2%20Source%20Material/Attachments/IMG_1842.jpg)
 
