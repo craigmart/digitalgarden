@@ -71,3 +71,5 @@ In terms of legacy, the Filco Sermon Index Service was a forerunner to later com
     
 - Tribune.org (BBFI) – Eli Harju biography noting Memory-O-Matic class at Baptist Bible College ([Eli Harju, BBFI Educator - Tribune.org](https://www.tribune.org/eli-harju-bbfi-educator/#:~:text=Missouri,1970)).
 
+From
+[[7 Resources/craig-share.netlify.app\|craig-share.netlify.app]]
