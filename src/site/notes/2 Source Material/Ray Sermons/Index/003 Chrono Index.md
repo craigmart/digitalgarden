@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-source-material/ray-sermons/index/003-chrono-index/"}
 ---
 
-![Pasted image 20250427130944.png](/img/user/2%20Source%20Material/Attachments/Pasted%20image%2020250427130944.png)
+![Pasted image 20250427130944.png](/img/user/2%20Source%20Material/Ray%20Sermons/Scans/Pasted%20image%2020250427130944.png)
 
 
 | Sermon | Reference |

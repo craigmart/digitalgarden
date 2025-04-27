@@ -5,23 +5,29 @@
 
 ![Pasted image 20250427130751.png](/img/user/2%20Source%20Material/Attachments/Pasted%20image%2020250427130751.png)
 
-| Sermon | Reference |
-|:------|:----------|
-| Jesus the King | Matthew 21 |
-| Jesus and the Scriptures | Matthew 22 |
-| Jesus' Death Foretold | Matthew 26 |
-| The Resurrection of Jesus | Matthew 28 |
-| The Authority of Jesus | Matthew 28 |
-| The Word Became Flesh | John 1 |
-| The Lamb of God | John 1 |
-| You Must Be Born Again | John 3 |
-| Living Water | John 4 |
-| The Bread of Life | John 6 |
-| The Good Shepherd | John 10 |
-| The Way, the Truth, and the Life | John 14 |
-| The True Vine | John 15 |
-| Jesus Prays for His Disciples | John 17 |
-| Jesus Before Pilate | John 18 |
-| Jesus Is Risen | John 20 |
+| Sermon                       | Reference                            |
+|:---------------------------- |:------------------------------------ |
+| The Judgment                 | Ephesians 3                          |
+| The Lord's Supper            | ORD 2 (no Bible reference given)     |
+| They Have Taken Away My Lord | John 20:1–13                         |
+| Parables of Calling          | CHR 4 (no Bible reference given)     |
+| Personal Work                | EVA 1 (no Bible reference given)     |
+| You Can Do Personal Work     | EVA 2 (no Bible reference given)     |
+| Prayer                       | Matthew 7:7–11                       |
+| Psalms I                     | Psalm 1                              |
+| Psalms 46-47                 | Psalm 46–47                          |
+| The Christian Race           | Hebrews 12:1                         |
+| Rejoicing                    | WOR 1 (no Bible reference given)     |
+| The Road of Life             | Matthew 7:13–14                      |
+| What Must I Do to Be Saved?  | Psalm 2                              |
+| Paul's Sermon on Mars Hill   | Acts 17                              |
+| Three Views of Life          | DAY 2 (no Bible reference given)     |
+| Great Things                 | John 3:16                            |
+| The Eight Woes               | CHR 5 (no Bible reference given)     |
+| Worship                      | WOR 2 (no Bible reference given)     |
+| Sin                          | SIN 2 (no Bible reference given)     |
+| Which Apostle Are You Like?  | CHAPTER 9 (no Bible reference given) |
+| Which Life Means Most?       | Mark 6:21–38                         |
+| Do We Meet the Test?         | Matthew 25:31–46                     |
 
-**Keywords:** [[4 Tags/Jesus\|Jesus]], [[Scripture\|Scripture]], [[Death\|Death]], [[4 Tags/Resurrection\|Resurrection]], [[Authority\|Authority]], [[Incarnation\|Incarnation]], [[4 Tags/Salvation\|Salvation]], [[New Birth\|New Birth]], [[Living Water\|Living Water]], [[Bread of Life\|Bread of Life]], [[Good Shepherd\|Good Shepherd]], [[Truth\|Truth]], [[Vine\|Vine]], [[Prayer\|Prayer]], [[Discipleship\|Discipleship]], [[Crucifixion\|Crucifixion]], [[Victory\|Victory]]
+[[Judgment\|Judgment]] [[Lord's Supper\|Lord's Supper]] [[4 Tags/Resurrection\|Resurrection]] [[Calling\|Calling]] [[Personal Work\|Personal Work]] [[Prayer\|Prayer]] [[Psalms\|Psalms]] [[Christian Life\|Christian Life]] [[Rejoicing\|Rejoicing]] [[4 Tags/Salvation\|Salvation]] [[Evangelism\|Evangelism]] [[4 Tags/Faith\|Faith]] [[Sin\|Sin]] [[Worship\|Worship]] [[Apostles\|Apostles]] [[Life\|Life]] [[Final Judgment\|Final Judgment]]
