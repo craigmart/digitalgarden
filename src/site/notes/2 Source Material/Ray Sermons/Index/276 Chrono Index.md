@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/2-source-material/ray-sermons/index/276-chrono-index/"}
+---
+
+![276 Index.jpeg](/img/user/2%20Source%20Material/Ray%20Sermons/Scans/276%20Index.jpeg)
+
+| Sermon | Reference |
+|:------|:----------|
+| A Psalm of Thanksgiving | Psalm 116 |
+| Demas & John Mark - Deserters | 2 Timothy 4:10; Acts 13:13 |
+| Are You a Member of the Lord’s Church? | |
+
+[[thanksgiving\|thanksgiving]] [[faithfulness\|faithfulness]] [[apostasy\|apostasy]] [[church-membership\|church-membership]] [[perseverance\|perseverance]] [[4 Tags/Salvation\|salvation]] [[discipleship\|discipleship]]

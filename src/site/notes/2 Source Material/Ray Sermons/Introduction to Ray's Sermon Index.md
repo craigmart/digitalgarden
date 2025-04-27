@@ -6,7 +6,7 @@ by: Craig
 
 I've been doing some light research on the system Ray used to organize his sermons. Ray and I had countless conversations about his process and how he approached preparation and planning for preaching God's Word.
 
-After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry on [[2 Source Material/Ray Sermons/Index/001 Chrono Index\|page 1]] dated June 14, 1957, in Milan, Michigan, to his final entry on [[2 Source Material/Ray Sermons/Index/276 Chrono\|page 276]] on December 5, 2021, in Peoria, Arizona, he preached 6535 sermons over 64 years, 5 months, and 21 days. 
+After his passing, I wanted to ensure his system was protected and didn't end up forgotten in a box. It's hard to capture the depth and breadth of work represented in his collection. From what I can tell, he never missed a week. From his first sermon entry on [[2 Source Material/Ray Sermons/Index/001 Chrono Index\|page 1]] dated June 14, 1957, in Milan, Michigan, to his final entry on [[2 Source Material/Ray Sermons/Index/276 Chrono Index\|page 276]] on December 5, 2021, in Peoria, Arizona, he preached 6535 sermons over 64 years, 5 months, and 21 days. 
 
 ![Ray early writing .png](/img/user/2%20Source%20Material/Attachments/Ray%20early%20writing%20.png)
 ![Ray late writing .png](/img/user/2%20Source%20Material/Attachments/Ray%20late%20writing%20.png)
