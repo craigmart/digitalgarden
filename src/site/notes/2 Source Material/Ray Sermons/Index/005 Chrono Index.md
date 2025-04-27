@@ -5,7 +5,7 @@
 ![005 Index.png](/img/user/2%20Source%20Material/Ray%20Sermons/Scans/005%20Index.png)
 
 | Sermon                    | Reference           |
-| :------------------------ | :------------------ |
+|:------------------------- |:------------------- |
 | NOW                       | 2 Corinthians 6     |
 | WHAT THINK YE OF CHRIST?  | Luke 2:10-11        |
 | BEHOLD HE COMETH          | Revelation 22:17-21 |
@@ -27,4 +27,6 @@
 | PARABLES ABOUT THE CHURCH |                     |
 | WHICH?                    |                     |
 | PARABLES ABOUT THE CHURCH |                     |
+
+
 [[Christ\|Christ]], [[Blood of Christ\|Blood of Christ]], [[Serving\|Serving]], [[Lord\|Lord]], [[Great Commission\|Great Commission]], [[Obedience\|Obedience]], [[Christian Identity\|Christian Identity]], [[Light\|Light]], [[Word of God\|Word of God]], [[4 Tags/Cross\|Cross]], [[Judgment\|Judgment]], [[Church\|Church]], [[Parables\|Parables]]
