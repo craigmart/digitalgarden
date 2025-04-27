@@ -3,4 +3,4 @@
 ---
 
 
-[[2 Source Material/Ray Sermons/Introduction to Ray's Sermon Index\|Introduction to Ray's Sermon Index]]
+[[2 Source Material/Ray Sermons/Ray Miller Sermons Home Page\|Ray Miller Sermons Home Page]]
