@@ -10,7 +10,6 @@
 | [[1 Journal/Tue, Apr 22, 2025\|4/22]] | 18/6           | 5p             | Great  |
 | [[1 Journal/Fri, Apr 25, 2025\|4/25]] | 14/8           | Noon           | Good   |
 | [[1 Journal/Sat, Apr 26, 2025\|4/26]] | None           | NA             | Good   |
-| [[1 Journal/Sun, Apr 27, 2025\|4/27]] | 18/6           | ?              | Good   |
 
 Related
 [[4 Tags/Habits\|Habits]]

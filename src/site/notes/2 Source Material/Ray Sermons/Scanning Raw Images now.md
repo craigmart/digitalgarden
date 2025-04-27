@@ -7,6 +7,8 @@ The first phase of the project is scanning the index.  Holly is using her phone 
 #### Recently Completed Index Pages
 
 - [[2 Source Material/Ray Sermons/Index/001 Chrono Index\|001 Chrono Index]]
+- [[2 Source Material/Ray Sermons/Index/002 Chrono Index\|002 Chrono Index]]
+- [[2 Source Material/Ray Sermons/Index/003 Chrono Index\|003 Chrono Index]]
 - [[2 Source Material/Ray Sermons/Index/005 Chrono Index\|005 Chrono Index]]
 - [[2 Source Material/Ray Sermons/Index/276 Chrono Index\|276 Chrono Index]]
 

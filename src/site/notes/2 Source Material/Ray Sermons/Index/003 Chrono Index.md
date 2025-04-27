@@ -1,0 +1,36 @@
+---
+{"dg-publish":true,"permalink":"/2-source-material/ray-sermons/index/003-chrono-index/"}
+---
+
+![Pasted image 20250427130944.png](/img/user/2%20Source%20Material/Attachments/Pasted%20image%2020250427130944.png)
+
+
+| Sermon | Reference |
+|:------|:---------|
+| What You Show by Presence | Ephesians 4:1-9 |
+| Christ, the Righteous Judge | John 5:22-30 |
+| Jesus in the Old Testament | Acts 5:27-39 |
+| Death | |
+| Noah's Ark | Genesis 6 |
+| The Light of the World | John 8:12 |
+| Music in the Worship | |
+| New Year's Resolutions | Day 4 (unclear, no Bible book) |
+| The Christian Priesthood | Hebrews 12 |
+| Go and Build | Ezra 3 |
+| The Power of the Word | Hebrews 4 |
+| The Two Lives of Paul | Acts 13 |
+| Personal Work | Matthew 25:31-46 |
+| Confession | James 5:16 |
+| Parables About the Church | Matthew 13:24-30 |
+| A Great Calm | Matthew 8:23-27 |
+| If | Psalm 5 |
+| The Resurrection | 1 Chronicles 7 |
+| The Christian Priesthood (again) | Hebrews 12 |
+| What Does the Cross Mean? | 1 Corinthians 1:17-31 |
+| Traits of God's Great Men | Hebrews 11:1-7 |
+| Sports in the Bible | Hebrews 11:1-10 |
+
+---
+
+**Keywords:**
+[[Presence\|Presence]], [[Judgment\|Judgment]], [[4 Tags/Jesus\|Jesus]], [[Death\|Death]], [[Noah\|Noah]], [[Light\|Light]], [[Worship\|Worship]], [[Resolutions\|Resolutions]], [[Priesthood\|Priesthood]], [[Building\|Building]], [[Word\|Word]], [[Paul\|Paul]], [[Personal Work\|Personal Work]], [[Confession\|Confession]], [[Parables\|Parables]], [[Calm\|Calm]], [[4 Tags/Faith\|Faith]], [[4 Tags/Resurrection\|Resurrection]], [[4 Tags/Cross\|Cross]], [[Traits\|Traits]], [[Sports\|Sports]]
