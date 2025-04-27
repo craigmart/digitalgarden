@@ -3,7 +3,4 @@
 ---
 
 
-
-Hello.
-
-Craig
+[[2 Source Material/Ray Sermons/Introduction to Ray's Sermon Index\|Introduction to Ray's Sermon Index]]
