@@ -56,4 +56,5 @@ The 2025 election has redrawn Canada’s political map at a moment of profound u
 Jordan Leichnitz has over 15 years of experience in progressive political strategy and policy development in social democratic movements in Canada. She has worked in senior roles in the federal New Democratic Party of Canada for a decade. Jordan currently serves as the Canadian Program Manager in the Friedrich Ebert Stiftung Washington office.
 
 [More articles](https://www.ips-journal.eu/about/writers-and-contributors/writer/jordan-leichnitz/)
+[[4 Tags/Canada\|Canada]]
 
