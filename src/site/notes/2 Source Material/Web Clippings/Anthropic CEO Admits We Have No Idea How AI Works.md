@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"\"anthropic\"","permalink":"/\"anthropic\"/","title":"Anthropic CEO Admits We Have No Idea How AI Works"}
+{"dg-publish":true,"dg-permalink":"anthropic","permalink":"/anthropic/","title":"Anthropic CEO Admits We Have No Idea How AI Works"}
 ---
 
 
