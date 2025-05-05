@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-source-material/web-clippings/anthropic-ceo-admits-we-have-no-idea-how-ai-works/","title":"Anthropic CEO Admits We Have No Idea How AI Works","hide":true}
+{"dg-publish":true,"dg-permalink":"\"anthropic\"","permalink":"/\"anthropic\"/","title":"Anthropic CEO Admits We Have No Idea How AI Works","hide":true}
 ---
 
 
