@@ -2,8 +2,6 @@
 {"dg-publish":true,"dg-permalink":"PostureCNS-plan","permalink":"/PostureCNS-plan/"}
 ---
 
-*(5.8.25 AI draft)*
-
 **Principal Investigators:**
 Craig Anderson, DC
 Mike Wenstrup, DC
@@ -34,3 +32,7 @@ This project introduces a novel clinical observation pathway that may allow chir
 
 **Anticipated Next Steps:**
 Pending initial observational data, the investigators aim to formalize this protocol for IRB approval and pursue deeper neurological correlations through collaboration with imaging, psychiatry, and neuropsychology teams.
+
+
+permalink: https://craig-share.netlify.app/PostureCNS-plan
+*(5.8.25 AI draft)*
