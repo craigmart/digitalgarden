@@ -18,8 +18,6 @@ Nicotine (separate from smoking) is being studied for possible benefits in:
 - ⚖️ **Obesity** – Appetite-suppressing; may help manage weight.
 - 🦴 **Arthritis** – Anti-inflammatory effects could ease joint pain.
 
-> [Ashtray Blog Summary of Benefits](https://www.ecigarettedirect.co.uk/ashtray-blog/2023/10/benefits-of-nicotine.html)
-
 ---
 
 ### 2. It’s Not the Nicotine That’s Dangerous—It’s the Smoke
@@ -35,8 +33,6 @@ A large study across 4 countries found:
   - Cutting down on smoking.
   - Temporarily abstaining (e.g. on planes or at work).
 
-> [PubMed Study on NRT Use](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325740/)
-
 ---
 
 ### 4. Nicotine Patches Show Promise in Treating Late-Life Depression
@@ -45,8 +41,6 @@ A large study across 4 countries found:
   - 53.3% full remission rate.
   - Improvements in mood, motivation, and memory.
   - Good tolerability (some nausea or dizziness reported).
-
-> [NIH Clinical Trial on Transdermal Nicotine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6892161/)
 
 ---
 
