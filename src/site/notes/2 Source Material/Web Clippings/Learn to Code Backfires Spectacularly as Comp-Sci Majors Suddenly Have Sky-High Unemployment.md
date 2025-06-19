@@ -38,3 +38,4 @@ Where do they go from here? Aside from going back to school for something more l
   
 
 Share This Article
+/opt/homebrew/bin/python3 "/Users/craiganderson/Documents/Coding/Obsidian/TASKS No Due Date.py"

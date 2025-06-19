@@ -12,7 +12,7 @@
 > **Key Themes:**
 > 
 > - **Discipleship as a Life of Passionate Action:** The source emphasizes that discipleship is not merely a religious activity or intellectual understanding of God's path, but a passionate commitment to walk that path in all aspects of everyday life. It is contrasted with a purely religious or church-based understanding of discipleship.
-> - **The [[Shema\|Shema]] as a Foundation for Discipleship:** The Shema, the Jewish [[4 Tags/Prayer List\|Prayer List]] beginning "Hear, O Israel, the Lord our God, the Lord alone," is presented as a central and foundational element of discipleship. It is described as "two sides of one coin" with discipleship, highlighting its role in focusing one's entire being on God. #morestudy 
+> - **The [[Shema\|Shema]] as a Foundation for Discipleship:** The Shema, the Jewish [[4 Tags/Prayer List\|Prayer List]] beginning "Hear, O Israel, the Lord our God, the Lord alone," is presented as a central and foundational element of discipleship. It is described as "two sides of one coin" with discipleship, highlighting its role in focusing one's entire being on God.
 > - **The Shema as a Loyalty Oath:** Beyond a statement of belief, the Shema, particularly the phrase "the Lord alone," is interpreted as a loyalty oath. In the context of ancient polytheistic societies, this emphasized exclusive devotion to the God of Moses and demanded a decision of commitment.
 > - **Comprehensive Commitment:** The breakdown of the Shema's components ("heart," "soul," "might") highlights the expectation of a comprehensive and all-encompassing commitment to God. This includes one's intellect, emotions, physical abilities, resources, and daily activities. Discipleship is not a part-time endeavor.
 > - **Discipleship in Everyday Life:** The source stresses that discipleship is to be lived out in all roles and professions, not just traditionally religious ones. Being a disciple means using one's abilities and talents, whether as a nurse or teacher, in a way that reflects this commitment to God.
@@ -38,3 +38,4 @@
 > - "God says awesome you catch it I've given you the abilities to be a nurse I've given you the mind to study I've given you the compassion for people now do it as a disciple"
 > - "Is God really got a loan for you or do you find there are other voices that we tend to be drawn to in addition or maybe instead of"
 > - "at that moment I decided that my commitment needed to be kicked up several notches and because he had saved me I wanted to become like him in order to be his disciple living the Shema every moment of every day"
+/opt/homebrew/bin/python3 "/Users/craiganderson/Documents/Coding/Obsidian/TASKS No Due Date.py"
